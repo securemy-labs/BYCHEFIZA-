@@ -6,20 +6,20 @@ MAKSUDNYA ;
 
  
 <b>E-Commerce WEBSITE</b>
-
-[E-commerce is the buying and selling of goods and services over the internet. Almost anything can be purchased through e-commerce today, and it has lowered the barriers to entry for many types of businesses, such as retailers.]
-
 [ MALAY  
+
 E-dagang ialah pembelian dan penjualan barangan dan perkhidmatan melalui internet, yang membolehkan hampir semua barangan dibeli secara dalam talian dan merendahkan halangan untuk perniagaan seperti peruncit. E-dagang membolehkan perniagaan berhubung dengan pelanggan di mana sahaja dan pada bila-bila masa, sambil menawarkan kemudahan kepada pengguna. 
 Definisi: E-dagang, atau e-commerce, merujuk kepada transaksi barangan dan perkhidmatan yang berlaku secara elektronik melalui internet.
 Skop: Ia merangkumi pelbagai jenis transaksi, termasuk antara perniagaan ke pengguna (B2C), perniagaan ke perniagaan (B2B), dan pengguna ke pengguna (C2C).
 Faedah: E-dagang meningkatkan kecekapan dengan mengembangkan pasaran dan mengurangkan kos operasi untuk perniagaan. Bagi pengguna, ia menyediakan akses kepada maklumat produk, kemudahan perbandingan harga, dan keupayaan untuk membeli dari mana-mana sahaja.
 Mekanisme: Urus niaga ini berlaku melalui pelbagai platform digital, termasuk laman web, aplikasi mudah alih dan platform media sosial.
 Impak: E-dagang telah menjadi enjin ekonomi utama, dengan pertumbuhan yang didorong oleh peningkatan akses internet dan penggunaan telefon pintar, menurut DHL. Ia juga telah merendahkan halangan kemasukan untuk ramai jenis perniagaan, terutamanya peruncit, yang membolehkan mereka bersaing pada skala yang lebih besar dan merentasi sempadan geografi. ]
+**
+[E-commerce is the buying and selling of goods and services over the internet. Almost anything can be purchased through e-commerce today, and it has lowered the barriers to entry for many types of businesses, such as retailers.]**
+
 
 
 <b>SYSTEM</b>
-
 [ MALAY 
 
 [ Sistem maklumat pengurusan (MIS) ialah sistem berasaskan komputer yang mengumpul, memproses dan menyusun data syarikat untuk membantu pengurus membuat keputusan yang lebih baik. Secara ringkas, ia mengambil data mentah dan mengubahnya menjadi laporan berguna yang boleh digunakan oleh pengurus untuk merancang, mengawal dan menganalisis operasi perniagaan, akhirnya menjadikan organisasi berjalan dengan lebih cekap. 
