@@ -1,0 +1,37 @@
+'use client'
+
+import { useState } from 'react'
+
+export function HeroSection() {
+  const [currentSlide, setCurrentSlide] = useState(0)
+
+  return (
+    <section className="relative w-full h-[600px] bg-gradient-to-br from-gray-50 to-gray-100">
+      <div className="absolute inset-0 flex items-center justify-center p-8">
+        <img
+          src="https://ugc.same-assets.com/JEjU-opLzl_rAs3AcMYEqQ_4QVFQgZ38.png"
+          alt="Brand Logo"
+          className="w-full max-w-4xl h-auto object-contain"
+        />
+      </div>
+
+      {/* Carousel Dots */}
+      <div className="absolute bottom-8 left-1/2 transform -translate-x-1/2 flex gap-2">
+        {[0, 1, 2, 3, 4].map((index) => (
+          <button
+            key={index}
+            onClick={() => setCurrentSlide(index)}
+            className={`w-2 h-2 rounded-full transition-all ${
+              currentSlide === index ? 'bg-white w-8' : 'bg-white/50'
+            }`}
+          />
+        ))}
+      </div>
+
+      {/* Floating Rewards Button */}
+      <button className="fixed bottom-8 right-8 w-16 h-16 bg-black rounded-full flex items-center justify-center shadow-lg hover:scale-110 transition-transform z-40">
+        <span className="text-white text-2xl">🎁</span>
+      </button>
+    </section>
+  )
+}
