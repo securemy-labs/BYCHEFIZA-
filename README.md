@@ -1,4 +1,5 @@
-<img width="894" height="762" alt="image" src="https://github.com/user-attachments/assets/14e42ea4-2263-4b15-b639-85b1373665b2" />
+<img width="717" height="844" alt="image" src="https://github.com/user-attachments/assets/5f2c9c6f-1d76-4c40-90ef-1615fdddd1f7" />
+
 
 Creative Commons Legal Code
 
