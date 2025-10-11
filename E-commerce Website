@@ -1,4 +1,3 @@
-<img width="717" height="844" alt="image" src="https://github.com/user-attachments/assets/5f2c9c6f-1d76-4c40-90ef-1615fdddd1f7" />
 'use client'
 
 import { useState } from 'react'
