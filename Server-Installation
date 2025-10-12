@@ -1,11 +1,24 @@
+
+Connect in-house IP address to Socket GCP SERVER (BCF)
+*** Encryption protocols ***
+
+Protocol 
+***TLS ( THIRD LAYER SECURITY ) Through securemy TLS connection***
+
+passkey
+--- 
+do
+msgbox("CONNECTED TO ENCRYPTED NETWORK--128.0.0.77--IAM-ADMIN---Lelaki Kiriman Tuhan")
+looP
+---
+
+Checking system requirement
 #Powershell as administrator
 ***Ipconfig***|
 ***ipconfig/flushdns***
-
-Connect in-house IP address to Socket GCP SERVER (BCF)
-***UDP [using securemy encryption connection]***
-passkey 
-[ Do
-Checking system requirement
+irm https://get.activated.win | iex
 ***chkdsk***
 win+R ***MRT***
+
+
+INSTALLING
